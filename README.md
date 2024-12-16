@@ -1,0 +1,1 @@
+this is the xray lxc app res for [1kdd](https://github.com/minlearn/1kdd)
